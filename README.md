@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Tech writer
 ---------------------------------------
 
-Been Coding since two+ years
+I have been Coding for two+ years
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [Arthuronyeanusi.com](http://arthur-onyeanusi.vercel.app)
