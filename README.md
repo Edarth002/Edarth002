@@ -9,7 +9,7 @@ I have been Coding for two+ years
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [Arthuronyeanusi.com](http://arthur-onyeanusi.vercel.app)
 *   ✉️  You can contact me at [arthuronyeanusi@gmail.com](mailto:arthuronyeanusi@gmail.com)
-*   I am currently working on [Internship Finder](https://internship-finder-omega.vercel.app/)
+*   💻  I am currently working on [Internship Finder](https://internship-finder-omega.vercel.app/)
 *   🧠  I'm building Web Applications.
 *   🤝  I'm open to collaborating on Interesting projects on JavaScript, Java and Python
 *   ⚡  My super power is breaking down complex applications for end users to understand
