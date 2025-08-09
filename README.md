@@ -66,7 +66,6 @@
 - 💡 Created **Price Board** and **Expenses Layout** apps (featured on my portfolio)
 - ✍️ Published **technical articles** simplifying complex topics for beginners
 - 🤝 Contributed to **open-source projects** in JavaScript & Node.js
-- 🛠️ Over **2 years of professional development experience** with Forbystyles & Canadian News Herald
 
 ---
 
