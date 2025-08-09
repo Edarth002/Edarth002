@@ -1,14 +1,87 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur Onyeanusi
-========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Arthur Onyeanusi</h1> 
+<p align="center">==========================================================================</p>
 
-Full Stack Web Developer, Tech writer
----------------------------------------
+<h3 align="center">Full Stack Web Developer | Tech Writer</h3>
 
+---
 
-*   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [Arthuronyeanusi.com](http://arthur-onyeanusi.vercel.app)
-*   ✉️  You can contact me at [arthuronyeanusi@gmail.com](mailto:arthuronyeanusi@gmail.com)
-*   💻  I am currently working on [Internship Finder](https://internship-finder-omega.vercel.app/)
-*   🧠  I'm building Web Applications.
-*   🤝  I'm open to collaborating on Interesting projects on JavaScript, Java and Python
-*   ⚡  My super power is breaking down complex applications for end users to understand
+- 🌍  Based in **Nigeria**
+- 🖥️  Portfolio: [arthur-onyeanusi.vercel.app](https://arthur-onyeanusi.vercel.app)
+- ✉️  Email: **arthuronyeanusi@gmail.com**
+- 💻  Currently working on: [Internship Finder](https://internship-finder-omega.vercel.app/)
+- 🧠  Building **Web Applications**
+- 🤝  Open to collaborating on **JavaScript, Java, and Python projects**
+- ⚡  Fun fact: My superpower is **breaking down complex applications so end users understand easily**
+
+---
+
+<p align="left">
+<a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="twitter" /></a>
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=arthur-onyeanusi&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-onyeanusi" />
+</p>
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-onyeanusi&theme=onedark" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<a href="https://github.com/arthur-onyeanusi">
+<img src="https://github-readme-stats.vercel.app/api?username=arthur-onyeanusi&show_icons=true&theme=tokyonight" alt="Arthur's GitHub stats" />
+</a>
+
+<a href="https://github.com/arthur-onyeanusi">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-onyeanusi&theme=tokyonight" alt="Arthur's GitHub streak" />
+</a>
+
+<a href="https://github.com/arthur-onyeanusi">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur-onyeanusi&theme=react-dark" alt="Arthur's GitHub Activity Graph" />
+</a>
+
+---
+
+### 🚀 Achievements
+
+- 🏆 Built **Internship Finder** – A location-based internship search tool for Computer Science students
+- 💡 Created **Price Board** and **Expenses Layout** apps (featured on my portfolio)
+- ✍️ Published **technical articles** simplifying complex topics for beginners
+- 🤝 Contributed to **open-source projects** in JavaScript & Node.js
+- 🛠️ Over **2 years of professional development experience** with Forbystyles & Canadian News Herald
+
+---
+
+### 📌 Featured Projects
+
+- [**Internship Finder**](https://internship-finder-omega.vercel.app/) – Real-time internship search with geolocation  
+- [**Price Board**](https://price-board-frontend.vercel.app/) – Live market prices dashboard  
+- [**Expenses Layout**](https://expenses-layout.vercel.app/) – Expense tracking UI  
+
+---
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/arthuronyeanusi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
