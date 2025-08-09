@@ -16,15 +16,11 @@
 ---
 
 <p align="left">
-<a href="https://x.com/Edarth123" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="twitter" /></a>
+<a href="https://x.com/Edarth123" target="blank"><img src="https://img.shields.io/twitter/follow/edarth123?logo=twitter&style=for-the-badge" alt="twitter" /></a>
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=arthur-onyeanusi&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-onyeanusi" />
-</p>
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-onyeanusi&theme=onedark" alt="GitHub Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edarth002&theme=onedark" alt="GitHub Trophies" /></a>
 </p>
 
 ---
@@ -51,15 +47,15 @@
 ### 📊 GitHub Stats & Activity
 
 <a href="https://github.com/edarth002">
-<img src="https://github-readme-stats.vercel.app/api?username=arthur-onyeanusi&show_icons=true&theme=tokyonight" alt="Arthur's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=edarth002&show_icons=true&theme=tokyonight" alt="Arthur's GitHub stats" />
 </a>
 
 <a href="https://github.com/edarth002">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-onyeanusi&theme=tokyonight" alt="Arthur's GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-edarth002=tokyonight" alt="Arthur's GitHub streak" />
 </a>
 
 <a href="https://github.com/edarth002">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur-onyeanusi&theme=react-dark" alt="Arthur's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edarth002&theme=react-dark" alt="Arthur's GitHub Activity Graph" />
 </a>
 
 ---
