@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-<a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="twitter" /></a>
+<a href="https://x.com/Edarth123" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="twitter" /></a>
 </p>
 
 <p align="left">
@@ -50,15 +50,15 @@
 
 ### 📊 GitHub Stats & Activity
 
-<a href="https://github.com/arthur-onyeanusi">
+<a href="https://github.com/edarth002">
 <img src="https://github-readme-stats.vercel.app/api?username=arthur-onyeanusi&show_icons=true&theme=tokyonight" alt="Arthur's GitHub stats" />
 </a>
 
-<a href="https://github.com/arthur-onyeanusi">
+<a href="https://github.com/edarth002">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-onyeanusi&theme=tokyonight" alt="Arthur's GitHub streak" />
 </a>
 
-<a href="https://github.com/arthur-onyeanusi">
+<a href="https://github.com/edarth002">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur-onyeanusi&theme=react-dark" alt="Arthur's GitHub Activity Graph" />
 </a>
 
