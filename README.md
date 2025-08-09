@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://github.com/edarth002">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edarth002=tokyonight" alt="Arthur's GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=edarth002=tokyonight" alt="Arthur's GitHub streak" />
 </a>
 
 <a href="https://github.com/edarth002">
