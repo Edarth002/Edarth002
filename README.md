@@ -67,7 +67,7 @@
 
 - [**Internship Finder**](https://internship-finder-omega.vercel.app/) – Real-time internship search with geolocation  
 - [**Price Board**](https://price-board-frontend.vercel.app/) – Live market prices dashboard  
-- [**Expenses Layout**](https://expenses-layout.vercel.app/) – Expense tracking UI  
+
 
 ---
 
