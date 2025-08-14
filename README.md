@@ -60,12 +60,6 @@
 
 ---
 
-### 🚀 Achievements
-
-- 🏆 Built **Internship Finder** – A location-based internship search tool for Computer Science students
-- 💡 Created **Price Board** and **Expenses Layout** apps (featured on my portfolio)
-- ✍️ Published **technical articles** simplifying complex topics for beginners
-- 🤝 Contributed to **open-source projects** in JavaScript & Node.js
 
 ---
 
