@@ -11,7 +11,7 @@
 - 💻  Currently working on: [Internship Finder](https://internship-finder-omega.vercel.app/)
 - 🧠  Building **Web Applications**
 - 🤝  Open to collaborating on **JavaScript, Java, and Python projects**
-- ⚡  Fun fact: My superpower is **breaking down complex applications so end users understand easily**
+- ⚡  Fun fact: I am the Flash**
 
 ---
 
@@ -66,7 +66,6 @@
 ### 📌 Featured Projects
 
 - [**Internship Finder**](https://internship-finder-omega.vercel.app/) – Real-time internship search with geolocation  
-- [**Price Board**](https://price-board-frontend.vercel.app/) – Live market prices dashboard  
 
 
 ---
